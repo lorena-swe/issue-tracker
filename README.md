@@ -16,10 +16,11 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
+<div align="center">
   <a href="https://lorena-swe-issue-tracker.vercel.app">
     <img src="app/assets/IssueTrackerGif_20s.gif">
   </a>
+</div>
 
 Issue Tracker is a web application designed to help teams manage and track issues efficiently. The app features a comprehensive dashboard for viewing the latest issues, a bar chart categorizing issues by their status (Open, In Progress, Closed), and an issue list page where all issues can be viewed and managed.
 
