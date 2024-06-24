@@ -50,6 +50,7 @@ const NewIssuePage = ({ issue }: Props) => {
       }
 
       router.push("/issues");
+      router.refresh(); // Refreshes the content of the current route
     } catch (error) {
       setSubmitting(false);
       setError("An unexpected error occurred.");

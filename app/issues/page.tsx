@@ -50,4 +50,7 @@ const IssuesPage = async () => {
   );
 };
 
+// Forcing dynamic rendering (no caching)
+export const dynamic = "force-dynamic";
+
 export default IssuesPage;
