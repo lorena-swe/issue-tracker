@@ -26,7 +26,7 @@ const IssueDetailPage = async ({ params }: Props) => {
     notFound();
   }
 
-  await delay(2000);
+  // await delay(2000);
 
   // md in RadixUI = lg in Tailwind
 
