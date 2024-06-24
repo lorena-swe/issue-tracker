@@ -48,7 +48,7 @@ const NewIssuePage = ({ issue }: Props) => {
         await axios.post("/api/issues", data);
       }
 
-      router.push("/issues");
+      router.push("/issues/list");
       router.refresh(); // Refreshes the content of the current route
     } catch (error) {
       setSubmitting(false);
