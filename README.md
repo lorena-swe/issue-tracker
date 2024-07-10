@@ -53,8 +53,6 @@ To get started, follow these steps:
 5. Run `npx prisma migrate dev` to generate your database tables.
 6. Run `npm run dev` to start the web server.
 
-<br />
-
 ## Usage
 
 After setting up, you can start managing issues by creating new ones, editing existing issues, and tracking their progress on the dashboard.
