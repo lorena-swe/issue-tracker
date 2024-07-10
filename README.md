@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">  
-  <h3 align="center">Game Hub</h3>
+  <h3 align="center">Issue Tracker</h3>
 
   <p align="center">
     <a href="https://lorena-swe-issue-tracker.vercel.app" target="_blank">View Website</a>
@@ -13,12 +13,10 @@
 
 <br /><br />
 
-<!-- ABOUT THE PROJECT -->
-
 ## About The Project
 <div align="center">
   <a href="https://lorena-swe-issue-tracker.vercel.app">
-    <img src="app/assets/IssueTrackerGif_20s.gif">
+    <img src="app/assets/IssueTrackerGif_20s.gif" alt="Issue Tracker Demo">
   </a>
 </div>
 
@@ -44,19 +42,41 @@ Issue Tracker is a web application designed to help teams manage and track issue
 - HTML & CSS
 - Axios
 
-<!-- GETTING STARTED -->
-
 ## Getting Started
 
 To get started, follow these steps:
 
 1. Clone this repository to your local machine.
-2. In the project folder, rename **.env.example** to **.env** (no period after).
-3. Set **all** the environment variables according to the instructions I've included in the file. If you don't set them properly, the application is not going to work.
+2. In the project folder, rename **.env.example** to **.env**.
+3. Set **all** the environment variables according to the instructions in the file. Ensure they are set properly for the application to work.
 4. Run `npm install` to install the dependencies.
 5. Run `npx prisma migrate dev` to generate your database tables.
 6. Run `npm run dev` to start the web server.
 
 <br />
+
+## Usage
+
+After setting up, you can start managing issues by creating new ones, editing existing issues, and tracking their progress on the dashboard.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Lorena - [LinkedIn](https://www.linkedin.com/in/lorena-zotaj/)
+
+Project Link: [https://github.com/lorena-swe/issue-tracker](https://github.com/lorena-swe/issue-tracker)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
