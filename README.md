@@ -20,6 +20,8 @@
   </a>
 </div>
 
+<br />
+
 Issue Tracker is a web application designed to help teams manage and track issues efficiently. The app features a comprehensive dashboard for viewing the latest issues, a bar chart categorizing issues by their status (Open, In Progress, Closed), and an issue list page where all issues can be viewed and managed.
 
 **Features**
